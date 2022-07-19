@@ -26,7 +26,6 @@ export function SingIn(){
         secureTextEntry
        />
        <Button title='Entrar' w="full"/>
-       <Button title='Cadastrar'/>
        
     </VStack>
     
